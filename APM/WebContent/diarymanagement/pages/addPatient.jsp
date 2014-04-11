@@ -5,7 +5,7 @@
 <link href="common/css/datePicker1.css" rel="stylesheet"/>
 <link href="diarymanagement/css/tabStyle.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="diarymanagement/js/addPatientTab.js"></script>
-	<h2 class="title" >Add Patient Details</h2>
+	<h2 class="title" >Add Patient Details ttryuty</h2>
 	<span id="mandatory_message" class="error">Note:Fields marked with asterisk(*) are required.</span> 
 	
 		<span class="error"><s:actionerror id="server_side_error"/></span>
